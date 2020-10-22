@@ -1,0 +1,3 @@
+run="ruby main.rb"
+language="ruby"
+onBoot="Loading stock_picker"
