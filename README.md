@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-![![Run on Repl.it](https://repl.it/badge/github/newhorizon-tech/stock-picker)]](https://repl.it/github/newhorizon-tech/stock-picker)
+[![Run on Repl.it](https://repl.it/badge/github/newhorizon-tech/stock-picker)](https://repl.it/github/newhorizon-tech/stock-picker)
 
 ## Built With
 
