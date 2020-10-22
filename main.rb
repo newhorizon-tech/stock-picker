@@ -7,6 +7,7 @@ def stock_picker(arr)
   arr.each_with_index do |p, d|
     arr.each_with_index do |price, day|
       next unless (d - day).positive? and p - price > profit
+
       profit = p - price
       buy = day
       sell = d
